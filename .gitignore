@@ -1,0 +1,30 @@
+#OS junk files
+[Tt]humbs.db
+
+#Visual Studio files
+*.vs
+*.user
+x64
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+.vscode/
+
+#Log Files
+*log.txt
+
+#Python Binary Files
+*.pyc
+
+#Movie
+*.avi
+
+#Temporary Folders 
+_tmp
+
+# OSX bullshit
+.DS_Store*
+.DS_Store
+
+# Environment
+.env
