@@ -57,3 +57,22 @@ Plotting:
 Statistics:
 5. Select Data Folder to compare (social vs. non-social conditions)
 
+## Copying data to server
+
+Use the scp secure copy comand  to upload a file
+
+```bash
+scp /path/to/local/file your_username@server_ip:/path/to/remote/destination
+
+```
+
+
+Use the scp secure copy comand  to download a file
+```bash
+scp your_username@server_ip:/path/to/remote/file /path/to/local/destination
+```
+
+## To run R script
+
+use Rscript (name of the script)
+
